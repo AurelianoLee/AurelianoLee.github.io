@@ -1,9 +1,9 @@
 ---
 title: "Oh My Zsh Install"
-weight: 1
+weight: 2
 # bookFlatSection: false
 # bookToc: true
-# bookHidden: false
+bookHidden: true
 # bookCollapseSection: false
 # bookComments: false
 # bookSearchExclude: false

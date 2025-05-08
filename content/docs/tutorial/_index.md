@@ -1,6 +1,6 @@
 ---
 title: "新人教程"
-weight: 20
+weight: 1
 bookFlatSection: true
 # bookToc: true
 # bookHidden: false
