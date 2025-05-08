@@ -1,0 +1,9 @@
+baseURL = 'https://aurelianolee.github.io/'
+languageCode = 'zh-cn'
+defaultContentLanguage = "zh"
+title = "Aureliano Lee's Blog"
+theme = "hugo-book"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
