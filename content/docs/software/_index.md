@@ -1,7 +1,7 @@
 ---
-title: "实用软件"
+title: "Software"
 weight: 10
-bookFlatSection: true
+bookFlatSection: false
 # bookToc: true
 # bookHidden: false
 bookCollapseSection: true

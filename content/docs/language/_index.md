@@ -1,6 +1,6 @@
 ---
-title: "Easy For Beginner"
-weight: 1
+title: "Language"
+weight: 5
 bookFlatSection: false
 # bookToc: true
 # bookHidden: false
@@ -8,6 +8,3 @@ bookCollapseSection: true
 # bookComments: false
 # bookSearchExclude: false
 ---
-
-# 新人入门傻瓜式教程
-

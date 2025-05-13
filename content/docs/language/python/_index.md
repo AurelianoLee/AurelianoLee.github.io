@@ -1,6 +1,6 @@
 ---
-title: "Easy For Beginner"
-weight: 1
+title: "Python"
+weight: 3
 bookFlatSection: false
 # bookToc: true
 # bookHidden: false
@@ -9,5 +9,4 @@ bookCollapseSection: true
 # bookSearchExclude: false
 ---
 
-# 新人入门傻瓜式教程
-
+# Python
