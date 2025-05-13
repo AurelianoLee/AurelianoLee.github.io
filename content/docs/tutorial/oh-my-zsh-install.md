@@ -13,7 +13,7 @@ updateDate: "2025-05-12"
 
 # Oh My Zsh Install
 
-Date: 2025-05-12
+- Date: 2025-05-12
 
 ## oh-my-zsh 介绍
 
