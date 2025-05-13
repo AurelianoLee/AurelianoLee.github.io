@@ -7,17 +7,23 @@ weight: 3
 # bookCollapseSection: false
 # bookComments: false
 # bookSearchExclude: false
+createDate: "2025-05-08"
+updateDate: "2025-05-08"
 ---
 
-# Fira code 安装并使用
+# Fira code
 
-[Fira Code Github](https://github.com/tonsky/FiraCode)
+Date: 2025-05-08
+
+## Fira Code 介绍
+
+- Github: [Fira Code Github](https://github.com/tonsky/FiraCode)
 
 ## MacOS 安装
 
 使用 `Homebrew` 安装 `Fira Code`.
 
-```bash
+```shell
 brew install font-fira-code
 ```
 
@@ -26,7 +32,7 @@ brew install font-fira-code
 ```json 
 {
     "editor.fontSize": 14,
-    "editor.fontFamily": "'Fira Code Medium', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontFamily": "'Fira Code Medium', Menlo, Monaco, 'Courier New', monospace", // 从前向后选择字体
     "editor.fontLigatures": true
 }
 ```
